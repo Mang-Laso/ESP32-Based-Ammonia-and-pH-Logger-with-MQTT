@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# lab8
+# ESP32-Based-Ammonia-and-pH-Logger-with-MQTT
 
 ## Project setup
 ```
