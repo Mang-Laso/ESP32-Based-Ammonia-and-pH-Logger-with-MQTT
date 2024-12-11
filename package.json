@@ -1,5 +1,5 @@
 {
-  "name": "lab8",
+  "name": "ESP32 Based Ammonia and pH Logger with MQTT",
   "version": "0.1.0",
   "private": true,
   "scripts": {
